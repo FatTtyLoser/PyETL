@@ -1,2 +1,2 @@
 # Belion
-This repostories just seved coderbridge blog articles and programs.
+This repositories just served coderbridge blog articles and programs.
